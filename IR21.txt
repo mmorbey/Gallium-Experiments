@@ -1,16 +1,3 @@
-General information :
-
-File	Capture021.ptw
-Frame	482
-Total frames	1484
-time	16:42:15.347
-Interval start	16:42:05.707
-Interval end	16:42:35.387
-Format	160	128
-
-
-Timing-graph Data :
-
 (time)	1 Mean  (°C)
 16:42:05.707	60.96
 16:42:05.726	58.04
